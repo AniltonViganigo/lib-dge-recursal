@@ -1,0 +1,6 @@
+C:\Users\vigan\OneDrive\Área de Trabalho\Projetos ONE4\VML Recursal - Protótipo\NEW DGE BB\RecursalDGEBB\RecursalDGEBB\bin\Release\RecursalDGEBB.pdb
+C:\Users\vigan\OneDrive\Área de Trabalho\Projetos ONE4\VML Recursal - Protótipo\NEW DGE BB\RecursalDGEBB\RecursalDGEBB\obj\Release\RecursalDGEBB.csproj.CoreCompileInputs.cache
+C:\Users\vigan\OneDrive\Área de Trabalho\Projetos ONE4\VML Recursal - Protótipo\NEW DGE BB\RecursalDGEBB\RecursalDGEBB\obj\Release\RecursalDGEBB.pdb
+C:\Users\vigan\OneDrive\Área de Trabalho\Projetos ONE4\VML Recursal - Protótipo\NEW DGE BB\RecursalDGEBB\RecursalDGEBB\bin\Release\RecursalDGEBB.dll
+C:\Users\vigan\OneDrive\Área de Trabalho\Projetos ONE4\VML Recursal - Protótipo\NEW DGE BB\RecursalDGEBB\RecursalDGEBB\obj\Release\RecursalDGEBB.csproj.AssemblyReference.cache
+C:\Users\vigan\OneDrive\Área de Trabalho\Projetos ONE4\VML Recursal - Protótipo\NEW DGE BB\RecursalDGEBB\RecursalDGEBB\obj\Release\RecursalDGEBB.dll
